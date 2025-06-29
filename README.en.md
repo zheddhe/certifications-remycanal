@@ -20,16 +20,16 @@ My goal: bring together **engineering rigor and applied ML expertise**.
 
 ## ✅ Selected DataScientest Certifications
 
-| Topic                                | Certification PDF                                                               | Date          |
-|-------------------------------------|----------------------------------------------------------------------------------|---------------|
-| Modélisation avancée | [view PDF](./certification_datascientest/2025-06-10_advanced_classification_with_scikit_learn.pdf) | 10 juin 2025 |
-| Détection d’anomalies | [view PDF](./certification_datascientest/2025-06-24_anomaly_detection.pdf) | 24 juin 2025 |
-| Deep Learning (réseaux denses) | [view PDF](./certification_datascientest/2025-06-27_dense_neural_networks_with_keras.pdf) | 27 juin 2025 |
-| Réduction de dimension | [view PDF](./certification_datascientest/2025-06-23_dimensionality_reduction_with_scikit_learn.pdf) | 23 juin 2025 |
-| Pipelines ML | [view PDF](./certification_datascientest/2025-06-16_pipeline.pdf) | 16 juin 2025 |
-| Feature Engineering & Optimisation | [view PDF](./certification_datascientest/2025-06-02_feature_engineering_and_optimisation.pdf) | 2 juin 2025 |
-| Séries temporelles | [view PDF](./certification_datascientest/2025-06-18_time_series_analysis_with_python.pdf) | 18 juin 2025 |
-| Vision par ordinateur | [view PDF](./certification_datascientest/2025-06-22_computer_vision_with_opencv.pdf) | 22 juin 2025 |
+| Topic                              | Certification PDF                                                                                   | Date          |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------- | ------------- |
+| Advanced Modeling                  | [view PDF](./certification_datascientest/2025-06-10_advanced_classification_with_scikit_learn.pdf)  | June 10, 2025 |
+| Anomaly Detection                  | [view PDF](./certification_datascientest/2025-06-24_anomaly_detection.pdf)                          | June 24, 2025 |
+| Deep Learning (Dense Networks)     | [view PDF](./certification_datascientest/2025-06-27_dense_neural_networks_with_keras.pdf)           | June 27, 2025 |
+| Dimensionality Reduction           | [view PDF](./certification_datascientest/2025-06-23_dimensionality_reduction_with_scikit_learn.pdf) | June 23, 2025 |
+| ML Pipelines                       | [view PDF](./certification_datascientest/2025-06-16_pipeline.pdf)                                   | June 16, 2025 |
+| Feature Engineering & Optimization | [view PDF](./certification_datascientest/2025-06-02_feature_engineering_and_optimisation.pdf)       | June 2, 2025  |
+| Time Series Analysis               | [view PDF](./certification_datascientest/2025-06-18_time_series_analysis_with_python.pdf)           | June 18, 2025 |
+| Computer Vision                    | [view PDF](./certification_datascientest/2025-06-22_computer_vision_with_opencv.pdf)                | June 22, 2025 |
 
 ---
 

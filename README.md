@@ -1,3 +1,5 @@
+📘 This README is also available in [English 🇬🇧](./README.en.md)
+
 # 🎓 Certifications & ML Projects – Rémy Canal (@zheddhe)
 
 Bienvenue sur ce dépôt qui centralise mes **certifications techniques** et **projets pratiques** dans le cadre de ma reconversion vers les métiers du **Machine Learning Engineering**, via la formation intensive **DataScientest – 2025**.
